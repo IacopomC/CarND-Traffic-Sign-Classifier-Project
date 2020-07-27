@@ -1,4 +1,4 @@
-# **Advanced Lane Finding**
+# **Traffic Sign Classifier**
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 This repository contains my implementation of the homonymous open source [project](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/writeup_template.md) part of the [Udacity - Self-Driving Car NanoDegree](http://www.udacity.com/drive).
