@@ -5,12 +5,13 @@ This repository contains my implementation of the homonymous open source [projec
 
 For a step by step walkthrough of the project and an overview of the theory used see [here](https://iacopomc.github.io/projects/2020-07-25-traffic-sign-classifier-project/) and [here](https://iacopomc.github.io/blog/traffic-sign-classifier/)
 
+The file `signnames.csv` contains "id to name" mappings for each id.
 
 Dependencies
 ---
 To execute the pipeline, the following dependencies are necessary:
 
-```python
+```
 Pickle
 Numpy
 Matplotlib
