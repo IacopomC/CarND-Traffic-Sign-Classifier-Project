@@ -11,6 +11,16 @@ Dependencies
 To execute the pipeline, the following dependencies are necessary:
 
 ```python
+Pickle
+Numpy
+Matplotlib
+OpenCv
+TensorFlow Version 1.3
+Tqdm
+Pandas
+Os
+Glob
+Scikit-learn
 ```
 
 Installation
