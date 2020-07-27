@@ -19,4 +19,6 @@ Clone the Github Repository and run each cell contained in the Jupiter Notebook 
 
 ```python
 git clone https://github.com/IacopomC/CarND-Traffic-Sign-Classifier-Project
+cd CarND-Traffic-Sign-Classifier-Project
+jupyter notebook Traffic_Sign_Classifier.ipynb
 ```
