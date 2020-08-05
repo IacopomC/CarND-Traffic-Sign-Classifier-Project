@@ -3,7 +3,7 @@
 
 This repository contains my implementation of the homonymous open source [project](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/writeup_template.md) part of the [Udacity - Self-Driving Car NanoDegree](http://www.udacity.com/drive).
 
-For a step by step walkthrough of the project see [here](https://iacopomc.github.io/projects/2020-07-25-traffic-sign-classifier-project/). The theory used is explained in this [paper](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf) by Pierre Sermanet and Yann LeCun.
+For a step by step walkthrough of the project see [here](https://iacopomc.github.io/projects/2020-07-27-traffic-sign-classifier-project/). The theory used is explained in this [paper](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf) by Pierre Sermanet and Yann LeCun.
 
 The file `signnames.csv` contains "id to name" mappings for each id.
 
